@@ -4,7 +4,7 @@
 
 <h3>ABOUT ME</h3>
 
-I'm a versatile developer, with experience in building web platforms.<br>I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can. I usually answer questions or solve some issues on GitHub, Stack Overflow or on tech communities because that not only helps others, but also helps me.
+I am an enthusiastic junior frontend developer, skilled in user-friendly web interfaces, and hold a CSE degree from Daffodil International University.
 
 <h3 align="left">Current State:</h3>
 <hr/>
