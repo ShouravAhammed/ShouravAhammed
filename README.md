@@ -1,4 +1,4 @@
-<img src="![image](https://github.com/ShouravAhammed/ShouravAhammed/assets/155262219/d1966016-7851-41e9-a38a-2c4ba44325ee)" />
+<img width="400px" src="![image](https://github.com/ShouravAhammed/ShouravAhammed/assets/155262219/d1966016-7851-41e9-a38a-2c4ba44325ee)" />
 
 
 <h3 align="left">Connect with me:</h3>
