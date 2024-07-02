@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
 
 
 <h3 align="left">Connect with me:</h3>
