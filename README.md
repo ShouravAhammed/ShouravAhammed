@@ -17,7 +17,7 @@
 <h3 align="left">Current Status:</h3>
 <hr/>
 
-- 🔭 I learned - front-end development
+- 🔭 I learned - Front-End Development
 
 - 🌱 I’m currently learning at - **Programming Hero**
 
