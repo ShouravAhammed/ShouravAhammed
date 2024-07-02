@@ -23,5 +23,5 @@
 
 - 👯 I’m looking - **to collaborate on open source**
 
-- 🤝 I’m trying - **to help with my friends and other people to learn web development**
+- 🤝 I’m trying - **to help with my friends and other people to Front-End Development**
 
