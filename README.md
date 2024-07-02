@@ -1,4 +1,4 @@
-<img width="400px" src="[[[image](https://github.com/ShouravAhammed/ShouravAhammed/assets/155262219/d1966016-7851-41e9-a38a-2c4ba44325ee)](https://i.pinimg.com/originals/71/6f/41/716f41d852335a66bba93652f1f68e9c.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fgeometric-animations-171119-gif-processing-creative-coding-art-everyday-geometry-httpifttt2zwg0ub--71072500353753777%2F&psig=AOvVaw2a0ca1FFM7zf63d21iJAkQ&ust=1720013738341000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKi899O8iIcDFQAAAAAdAAAAABAQ)" />
+
 
 
 <h3 align="left">Connect with me:</h3>
