@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shouravahammed&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="shouravahammed" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shouravahammed&" alt="shouravahammed" />
 </p>
