@@ -1,7 +1,6 @@
-
 <h3 align="left">Current State:</h3>
 <hr/>
-<div align="center" width="100%">
+<div align="center" style="background-color: black; padding: 50px 0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouravahammed&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </div>
 <h3 align="left">Connect with me:</h3>
