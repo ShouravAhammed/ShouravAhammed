@@ -1,3 +1,1 @@
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
