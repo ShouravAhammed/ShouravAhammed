@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile gif.gif" width="100%" alt="Banner">
+  <img src="profile gif.gif" width="100%" height="400px" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
