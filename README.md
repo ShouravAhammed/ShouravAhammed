@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pin.it/4mAMm9Tp9" width="100%" alt="Banner">
+  <img src="" width="100%" alt="Banner">
 </div>
 
 <h3>ABOUT ME</h3>
