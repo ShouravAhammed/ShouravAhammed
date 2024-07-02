@@ -1,9 +1,9 @@
 
 <h3 align="left">Current State:</h3>
 <hr/>
-<p align="center" width="100%">
+<div align="center" width="100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouravahammed&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 <h3 align="left">Connect with me:</h3>
 <hr/>
 <p align="center" style="padding-top: 50px; padding-bottom: 50px;">
