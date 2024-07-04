@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Shourav Ahammed 👋 I'm a 🚀 Front-End Developer>
+  
 </div>
 
 <h3>About Me</h3>
