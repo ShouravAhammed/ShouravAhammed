@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-profile-image.gif" alt="👋 Hi there! I'm (Shourav)" title="👋 Hi there! I'm Shourav />
+  <img src="github-profile-image.gif" width="100%" />
 </div>
 
 <h3>About Me</h3>
