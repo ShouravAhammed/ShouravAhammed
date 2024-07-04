@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-profile-image.gif" width="100%" />
+  <img src="github-profile-image.gif" width="100%" height="400px"/>
 </div>
 
 <h3>About Me</h3>
