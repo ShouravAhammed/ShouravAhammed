@@ -1,5 +1,5 @@
 <div align="center">
-  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Shourav(111|nd Li)|https://Raymo.li)" title="👋 Hi there! I'm (Shourav(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Shourav(111|nd Li))" title="👋 Hi there! I'm (Shourav(111|nd Li))"/>](https://raymond.li/)
 </div>
 
 <h3>About Me</h3>
