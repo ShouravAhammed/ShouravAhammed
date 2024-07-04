@@ -1,5 +1,5 @@
 <div align="center">
-  
+  ![Hey there, I'm Shourav Ahammed. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 </div>
 
 <h3>About Me</h3>
