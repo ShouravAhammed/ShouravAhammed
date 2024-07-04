@@ -39,7 +39,7 @@ I am an enthusiastic junior frontend developer, skilled in user-friendly web int
 <h3 align="left">Current Status</h3>
 <hr/>
 
-<a href="https://app.daily.dev/shouravahammed"><img src="https://api.daily.dev/devcards/v2/pER1yYtDx9z458c24q010.png?type=default&r=dl0" width="356" alt="Shourav Ahammed's Dev Card"/></a>
+<a href="https://app.daily.dev/shouravahammed"><img src="https://api.daily.dev/devcards/v2/pER1yYtDx9z458c24q010.png?type=wide&r=dl0" width="400" alt="Shourav Ahammed's Dev Card"/></a>
 
 - 🔭 I learned - Front-End Development
 
