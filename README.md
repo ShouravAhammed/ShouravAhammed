@@ -1,6 +1,6 @@
-<div align="center">
+<a href="https://www.facebook.com/rafayet.ridoy">
   <img src="Github-card-profile.gif" width="100%" height="100%"/>
-</div>
+</a>
 
 <h3>About Me</h3>
 
