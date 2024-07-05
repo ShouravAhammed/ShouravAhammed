@@ -1,4 +1,4 @@
-<a href="https://www.facebook.com/rafayet.ridoy">
+<a href="https://www.facebook.com/rafayet.ridoy" target="blank">
   <img src="Github-card-profile.gif" width="100%" height="100%"/>
 </a>
 
