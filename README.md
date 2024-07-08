@@ -19,9 +19,7 @@ I am an enthusiastic junior frontend developer, skilled in user-friendly web int
 <a href="https://www.facebook.com/rafayet.ridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rafayet.ridoy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Technologies in my skill set</h3>
-<hr/>
-:computer: Skills
+<h3 align="left">:computer: Technologies in my skill set</h3>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
