@@ -2,7 +2,7 @@
   <img src="Github-card-profile.gif" width="100%" height="100%"/>
 </a>
 
-<h3>### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me</h3>
+<h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me</h3>
 
 I am an enthusiastic junior frontend developer, skilled in user-friendly web interfaces, and hold a CSE degree from Daffodil International University.
 
