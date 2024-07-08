@@ -21,7 +21,7 @@ I am an enthusiastic junior frontend developer, skilled in user-friendly web int
 
 <h3 align="left">Technologies in my skill set</h3>
 <hr/>
-## :computer: Skills
+:computer: Skills
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
