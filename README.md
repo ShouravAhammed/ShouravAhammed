@@ -8,7 +8,7 @@ I am an enthusiastic junior frontend developer, skilled in user-friendly web int
 
 <h3 align="left">Current Status</h3>
 <hr/>
-<div align="center" style="background-color: #000; padding: 50px 0;">
+<div align="center" style="background-color: #fff; padding: 50px 0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouravahammed&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </div>
 <h3 align="left">Connect With Me</h3>
